@@ -10,11 +10,11 @@ This project was developed in the context of Google Cloud Day Lisbon Hackathon: 
 ## Features
 - **Natural Language Input**: Supports both text and speech for seamless interaction.
 - **Real-Time Triage**: Helps patients triage themselves before arriving at the emergency department, reducing non-emergent visits.
-- **Integration with Hospital Systems**: Can be connected with electronic health records (EHR) and updates the patient's status in the hospital system.
+- **Integration with Hospital Systems**: Can be connected with electronic health records (EHR) and updates the patient’s status in the hospital system.
 - **AI-Driven Triage**: Leverages the Manchester Triage System to classify patients into different urgency levels, ensuring appropriate care.
 - **Cloud-Based**: Uses Google infrastructure for scalability, security, and updates.
 
-![abs](https://github.com/rui-pedro-pires/Google-Cloud-Hackathon/blob/main/(Static)%20SC1%20-%20Hackathon%20Pitch%20-%20Team%201.png)
+![abs](https://github.com/mjorgecruz/google_hackathon/blob/main/(Static)%20SC1%20-%20Hackathon%20Pitch%20-%20Team%201.png)
   
 ## Benefits & Impact
 ### Social:
@@ -23,7 +23,7 @@ This project was developed in the context of Google Cloud Day Lisbon Hackathon: 
 - **Relieves Healthcare Staff**: Allows professionals to focus on urgent cases by reducing the non-emergent patient influx.
   
 ### Technical:
-- **Managed Infrastructure**: Google ensures the system's security, scalability, and regular updates.
+- **Managed Infrastructure**: Google ensures the system’s security, scalability, and regular updates.
 - **Interoperability**: RITA can be integrated with other virtual and human agents, as well as hospital EHR systems.
 - **Continuous Improvement**: Machine learning continuously enhances the accuracy of the triage process.
 
